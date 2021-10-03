@@ -3,7 +3,7 @@ name: pi4madrid
 on:
   push:
     branches:
-      - 'master'
+      - 'main'
 
 jobs:
   kubectl:
