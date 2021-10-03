@@ -22,7 +22,3 @@ data:
     [Peer] # Manu iPhone
     PublicKey = YCzHlbwjXSF9pGukabZB1osdxle7gCPrVXEuSkWkGns=
     AllowedIPs = 192.168.107.4/32
-
-    [Peer] # Maiky
-    PublicKey = QYqyjt3C7Uk9ffraKj7PEw2/LluB7egkC30P+qFV5l8=
-    AllowedIPs = 192.168.107.100/32
